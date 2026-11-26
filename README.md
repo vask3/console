@@ -10,6 +10,10 @@ This is my own mini retro gaming handheld from scratch using the new **Raspberry
 - **Buttons:** 4-way D-Pad + A and B buttons
 - **Power:** USB-C
 
+<img width="769" height="428" alt="image" src="https://github.com/user-attachments/assets/15bf45f0-5cbd-4cfe-a1d9-f500ce4753c0" />
+<img width="647" height="320" alt="image" src="https://github.com/user-attachments/assets/0e54b47c-0b63-462d-8e78-3fab589c8ac9" />
+
+
 ## pinout (so I don't forget where everything goes)
 - **Display:** `MOSI` -> GP19 | `SCK` -> GP18 | `CS` -> GP17 | `DC` -> GP16 | `RST` -> GP20
 - **Buttons:** `UP` -> GP2 | `DOWN` -> GP3 | `LEFT` -> GP4 | `RIGHT` -> GP5 | `A` -> GP6 | `B` -> GP7
