@@ -2,7 +2,7 @@
 
 This is my own mini retro gaming handheld from scratch using the new **Raspberry Pi Pico 2** 
 
-<img width="974" height="604" alt="Screenshot 2026-11-06 225834 (1)" src="https://github.com/user-attachments/assets/b19f379a-4e89-4d87-bdae-de83fb7a87e9" />
+<img width="904" height="604" alt="Screenshot 2026-11-06 225834 (1)" src="https://github.com/user-attachments/assets/b19f379a-4e89-4d87-bdae-de83fb7a87e9" />
 
 ## what's inside
 - **Brain:** Raspberry Pi Pico 2
